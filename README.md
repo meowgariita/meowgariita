@@ -10,8 +10,8 @@
 <a href="https://pin.it/66b5FnK4T"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rolalgraphicigf.gif" width="700" alt="coat guy"></a>
 </p>
 <!--main stuff down here-->
-<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/luckystar.gif" width="290" align="right" alt="flower">
-<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rainbowthing.png" width="220" align="left" alt="flower">
+<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/luckystar.gif" width="250" align="right" alt="luckystar">
+<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rainbowthing.png" width="230" align="left" alt="rainbow">
 
 <br>
 <br>
