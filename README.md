@@ -40,3 +40,4 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
   <p align="center">
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/bannerthng.png" alt="flower">
 </p>
+<!-- dni part etc -->
