@@ -13,7 +13,7 @@ $\color{#56108C}{\textsf{click on images to go to their respective artists/links
 </p>
 <!-- main stuff down here 🌟-->
 <div align="center">
-<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/luckystar.gif" width="250" align="right" alt="luckystar">
+<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/luckystarcute.png" width="250" align="right" alt="luckystar">
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rainbowthing.png" width="230" align="left" alt="rainbow">
 
 <br>
