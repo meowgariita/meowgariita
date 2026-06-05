@@ -11,7 +11,7 @@
 </p>
 <!--main stuff down here-->
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/luckystar.gif" width="290" align="right" alt="flower">
-<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rainbowthing.png" width="230" align="left" alt="flower">
+<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rainbowthing.png" width="220" align="left" alt="flower">
 
 <br>
 <br>
