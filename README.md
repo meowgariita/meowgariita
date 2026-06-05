@@ -1,5 +1,7 @@
 <!-- hello if youre reading this, whatcha lookin here for! -->
-<div align="center">
+<p align="center">
+$\color{#56108C}{\textsf{click on images to go to their respective artists/links}}$
+</p>
 
 <!-- text thingy -->
 <p align="center">
@@ -10,6 +12,7 @@
 <a href="https://pin.it/66b5FnK4T"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rolalgraphicigf.gif" width="700" alt="main graphic that is colorful and has a drawing of roxy lalonde"></a>
 </p>
 <!--main stuff down here-->
+<div align="center">
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/luckystar.gif" width="250" align="right" alt="luckystar">
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rainbowthing.png" width="230" align="left" alt="rainbow">
 
