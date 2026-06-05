@@ -41,3 +41,34 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/bannerthng.png" alt="flower">
 </p>
 <!-- dni part etc -->
+<table>
+  <tr>
+    <td align="center" width="40%">
+ info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info
+  </td>
+
+  <td align="center" width="20%">
+    <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/pinkiepiegraphic.gif" width="200"/>
+  </td>
+
+  <td align="center" width="40%">
+  info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info<br>
+      info info info info info info info info
+  </td>
+  </tr>
+</table>
