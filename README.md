@@ -87,3 +87,14 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
 <a href="https://deathlycold.straw.page"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/2ef03cbfc8-out-ezgif.com-video-to-gif-converter.gif" width="300" alt="graphic"></a>
 </p>
 <!-- extra 🪼 -->
+
+<details>
+  <summary> $\color{#FF33CC}{\textsf{s}}\color{#FF66A3}{\textsf{t}}\color{#FF997A}{\textsf{a}}\color{#FFCC4D}{\textsf{m}}\color{#A8E620}{\textsf{p}}\color{#35E6A3}{\textsf{s}}$ </summary>
+  <p align="center">
+  $\color{#56108C}{\textsf{more to be added!}}$
+  </p>
+ <p align="center">
+ <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/rainbowfrutigermetro1.png"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/rainbowfrutigermetro2.png"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/rainbowfrutigermetro3.png"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/rainbowfrutigermetro4.png"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/rainbowfrutigermetro5.png"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/rainbowfrutigermetro6.png"/> <br>
+   <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/papfpinky2stamp.png"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/papfpepperstamp.png"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/papfpinkystamp.png" width="100"/> <br>
+</p>
+</details>
