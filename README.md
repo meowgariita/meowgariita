@@ -7,7 +7,7 @@
 </p>
  <!-- main graphic -->
 <p align="center">
-<a href="https://pin.it/66b5FnK4T"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rolalgraphicigf.gif" width="700" alt="coat guy"></a>
+<a href="https://pin.it/66b5FnK4T"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rolalgraphicigf.gif" width="700" alt="main graphic that is colorful and has a drawing of roxy lalonde"></a>
 </p>
 <!--main stuff down here-->
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/luckystar.gif" width="250" align="right" alt="luckystar">
@@ -23,7 +23,7 @@
 $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\textsf{˚}}\color{#7A2BFF}{\textsf{❀}}\color{#00E5FF}{\textsf{༉}}\color{#4DFFB8}{\textsf{‧}}\color{#39FF14}{\textsf{₊}}\color{#FFD600}{\textsf{˚}}\color{#FF9D00}{\textsf{.}}$ <br>
       $\color{#FF3FD1}{\textsf{she}}$ $\color{#FF4FD8}{\textsf{/}}$ $\color{#D94CFF}{\textsf{he}}$ $\color{#B84CFF}{\textsf{,}}$ $\color{#8A5CFF}{\textsf{although}}$ $\color{#5C7CFF}{\textsf{any}}$ $\color{#4CC9F0}{\textsf{pronouns}}$ $\color{#2FE6D3}{\textsf{are}}$ $\color{#2EE59D}{\textsf{ok}}$ <br>
       $\color{#B8F35A}{\textsf{18}}$ $\color{#FFD84A}{\textsf{years}}$ $\color{#FFB13D}{\textsf{old}}$ $\color{#E455E6}{\textsf{-}}$ $\color{#FF2BB5}{\textsf{boy}}\color{#D94CFF}{\textsf{girl}}$<br>
-      <img src="https://autism.crd.co/assets/images/gallery01/ab97ae50.gif?v=d6547f5c" width="100" alt="flower"> <br>
+      <img src="https://autism.crd.co/assets/images/gallery01/ab97ae50.gif?v=d6547f5c" width="100" alt="mylilpony"> <br>
       $\color{#FF4FD8}{\textsf{hihi!}}$ $\color{#E455E6}{\textsf{welcome 2}}$ $\color{#C85CFF}{\textsf{my page!}}$  <br>
       $\color{#9B6CFF}{\textsf{if you're here}}$ $\color{#6F8CFF}{\textsf{from ponytown,}}$ <br>
       $\color{#4CC9F0}{\textsf{feel free}}$ $\color{#3DD6C6}{\textsf{to c+h anytime.}}$ <br>
@@ -38,37 +38,41 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
   </table>
   
   <p align="center">
-<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/bannerthng.png" alt="flower">
+<img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/bannerthng.png" alt="graphic">
 </p>
 <!-- dni part etc -->
 <table>
   <tr>
     <td align="center" width="40%">
- info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info
+ $\color{#FF33CC}{\textsf{byi}}$ $\color{#FF4DB8}{\textsf{⋆˚✿˖°}}$ <br>
+      $\color{#FF66B2}{\textsf{my}}$ $\color{#FF7AA5}{\textsf{social}}$ $\color{#FF8F97}{\textsf{battery}}$ $\color{#FFA36F}{\textsf{does}}$ $\color{#FFB84D}{\textsf{tend}}$ $\color{#FFCC33}{\textsf{to}}$ $\color{#E6D91A}{\textsf{run}}$<br>
+      $\color{#B8E620}{\textsf{out}}$ $\color{#8EE62A}{\textsf{quickly}}$ $\color{#66E63D}{\textsf{sometimes,}}$ $\color{#4DE66A}{\textsf{so}}$ $\color{#42E68E}{\textsf{if}}$ $\color{#3DE6B3}{\textsf{i}}$ $\color{#38E6D1}{\textsf{go}}$<br>
+      $\color{#33D9FF}{\textsf{quiet,}}$ $\color{#47C7FF}{\textsf{that's}}$ $\color{#5CB5FF}{\textsf{why!}}$ $\color{#70A3FF}{\textsf{im}}$ $\color{#8590FF}{\textsf{incredibly}}$<br>
+      $\color{#9A7DFF}{\textsf{likely}}$ $\color{#AF6BFF}{\textsf{to}}$ $\color{#C458FF}{\textsf{be}}$ $\color{#D945F5}{\textsf{afk}}$ $\color{#EE33E0}{\textsf{or}}$ $\color{#FF33CC}{\textsf{offtab}}$ $\color{#FF4DB8}{\textsf{-}}$ <br>
+     $\color{#FF66A3}{\textsf{so}}$ $\color{#FF8090}{\textsf{please}}$ $\color{#FF997A}{\textsf{whisper}}$ $\color{#FFB366}{\textsf{me!}}$ $\color{#FFCC4D}{\textsf{i}}$ $\color{#FFE033}{\textsf{might}}$<br>
+      $\color{#D4E61A}{\textsf{not}}$ $\color{#A8E620}{\textsf{see}}$ $\color{#7DE628}{\textsf{your}}$ $\color{#57E63A}{\textsf{message}}$ $\color{#3EE66E}{\textsf{otherwise.}}$<br>
+     <img src="https://gifcity.carrd.co/assets/images/gallery38/42c12903.gif?v=3fc8f5cd" width="100" alt="starlights"> <br>
+     $\color{#35E6A3}{\textsf{again,}}$ $\color{#33E6CC}{\textsf{cuds}}$ $\color{#33D9FF}{\textsf{are}}$ $\color{#4DC4FF}{\textsf{heavily}}$ $\color{#5CB5FF}{\textsf{encouraged}}$<br>
+      $\color{#70A3FF}{\textsf{even}}$ $\color{#8590FF}{\textsf{if}}$ $\color{#9A7DFF}{\textsf{they're}}$ $\color{#AF6BFF}{\textsf{just}}$ $\color{#C458FF}{\textsf{in}}$ $\color{#D945F5}{\textsf{silence!!}}$
   </td>
 
   <td align="center" width="20%">
-    <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/pinkiepiegraphic.gif" width="200"/>
+    <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/pinkiepiecutesparkle.gif" width="200"/>
   </td>
 
   <td align="center" width="40%">
-  info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info<br>
-      info info info info info info info info
+  $\color{#FF33CC}{\textsf{dni}}$ $\color{#FF4DB8}{\textsf{⋆✴︎˚｡⋆}}$<br>
+      $\color{#FF66A3}{\textsf{darkshippers,}}$ $\color{#FF8090}{\textsf{racists,}}$ $\color{#FF997A}{\textsf{homophobes,}}$<br>
+      $\color{#FFB366}{\textsf{sh*ta/l*licons,}}$ $\color{#FFCC4D}{\textsf{endogenic}}$ $\color{#FFE033}{\textsf{systems,}}$ <br>
+      $\color{#D4E61A}{\textsf{tcc}}$ <br>
+   <img src="https://maguro.carrd.co/assets/images/gallery23/6a6c3cd8.gif?v=10a293e5" width="100" alt="stars"> <br>
+   $\color{#A8E620}{\textsf{other}}$ $\color{#7DE628}{\textsf{than}}$ $\color{#57E63A}{\textsf{the}}$ $\color{#3EE66E}{\textsf{basic}}$ $\color{#35E6A3}{\textsf{dni,}}$ $\color{#33E6CC}{\textsf{i}}$<br>
+      $\color{#33D9FF}{\textsf{dont}}$ $\color{#4DC4FF}{\textsf{have}}$ $\color{#5CB5FF}{\textsf{any}}$ $\color{#33D9FF}{\textsf{other}}$ $\color{#33E6CC}{\textsf{things}}$ $\color{#35E6A3}{\textsf{to}}$ $\color{#3EE66E}{\textsf{put}}$<br>
+      $\color{#57E63A}{\textsf{here.}}$ $\color{#7DE628}{\textsf{im}}$ $\color{#A8E620}{\textsf{also}}$ $\color{#D4E61A}{\textsf{uncomfortable}}$ <br>
+      $\color{#FFE033}{\textsf{becoming}}$ $\color{#FFCC4D}{\textsf{friends}}$ $\color{#FFB366}{\textsf{with}}$ $\color{#FF997A}{\textsf{anyone}}$ <br>
+   $\color{#FF8090}{\textsf{under}}$ $\color{#FF66A3}{\textsf{15,}}$ $\color{#FF4DB8}{\textsf{but}}$ $\color{#FF33CC}{\textsf{cuds}}$ $\color{#FF4DB8}{\textsf{are}}$ $\color{#FF66A3}{\textsf{okay!}}$<br>
+  <br>
+    
   </td>
   </tr>
 </table>
