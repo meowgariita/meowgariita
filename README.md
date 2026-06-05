@@ -1,17 +1,17 @@
-<!-- hello if youre reading this, whatcha lookin here for! -->
+<!-- hello if youre reading this, whatcha lookin here for! 🦩 -->
 <p align="center">
 $\color{#56108C}{\textsf{click on images to go to their respective artists/links}}$
 </p>
 
-<!-- text thingy -->
+<!-- text thingy 🦄 -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=1000&color=FF23E3&vCenter=true&repeat=false&width=787&height=21&lines=i+love+love+love+it!+my+exclusive+royal+canterlot+wedding+playset+" alt="Typing SVG" /></a> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/pinksparklyheart.gif" width="30" alt="pink sparkly heart">
 </p>
- <!-- main graphic -->
+ <!-- main graphic 🦜 -->
 <p align="center">
 <a href="https://pin.it/66b5FnK4T"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rolalgraphicigf.gif" width="700" alt="main graphic that is colorful and has a drawing of roxy lalonde"></a>
 </p>
-<!--main stuff down here-->
+<!-- main stuff down here 🌟-->
 <div align="center">
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/luckystar.gif" width="250" align="right" alt="luckystar">
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/rainbowthing.png" width="230" align="left" alt="rainbow">
@@ -43,7 +43,7 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
   <p align="center">
 <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/bannerthng.png" alt="graphic">
 </p>
-<!-- dni part etc -->
+<!-- dni/byi section 🌈 -->
 <table>
   <tr>
     <td align="center" width="40%">
@@ -79,10 +79,11 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
   </td>
   </tr>
 </table>
-
+<!-- links 🌺 -->
   <p align="center">
 <a href="https://coatguyy.atabook.org"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/atabooksparkly.gif" width="300" alt="atabook/guestbook graphic"></a> <a href=""><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/pinkandbluehearts.gif" width="50" alt="pink and blue heart"></a> <a href="https://meowgariitacomms.straw.page"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/commsthingsparkly.gif" width="200" alt="commissions graphic"></a>
 </p>
  <p align="center">
 <a href="https://deathlycold.straw.page"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/2ef03cbfc8-out-ezgif.com-video-to-gif-converter.gif" width="300" alt="graphic"></a>
 </p>
+<!-- extra 🪼 -->
