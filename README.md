@@ -66,9 +66,9 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
       $\color{#FFB366}{\textsf{sh*ta/l*licons,}}$ $\color{#FFCC4D}{\textsf{endogenic}}$ $\color{#FFE033}{\textsf{systems,}}$ <br>
       $\color{#D4E61A}{\textsf{tcc}}$ <br>
    <img src="https://maguro.carrd.co/assets/images/gallery23/6a6c3cd8.gif?v=10a293e5" width="100" alt="stars"> <br>
-   $\color{#A8E620}{\textsf{other}}$ $\color{#7DE628}{\textsf{than}}$ $\color{#57E63A}{\textsf{the}}$ $\color{#3EE66E}{\textsf{basic}}$ $\color{#35E6A3}{\textsf{dni,}}$ $\color{#33E6CC}{\textsf{i}}$<br>
-      $\color{#33D9FF}{\textsf{dont}}$ $\color{#4DC4FF}{\textsf{have}}$ $\color{#5CB5FF}{\textsf{any}}$ $\color{#33D9FF}{\textsf{other}}$ $\color{#33E6CC}{\textsf{things}}$ $\color{#35E6A3}{\textsf{to}}$ $\color{#3EE66E}{\textsf{put}}$<br>
-      $\color{#57E63A}{\textsf{here.}}$ $\color{#7DE628}{\textsf{im}}$ $\color{#A8E620}{\textsf{also}}$ $\color{#D4E61A}{\textsf{uncomfortable}}$ <br>
+   $\color{#A8E620}{\textsf{other}}$ $\color{#7DE628}{\textsf{than}}$ $\color{#57E63A}{\textsf{the}}$ $\color{#3EE66E}{\textsf{basic}}$ $\color{#35E6A3}{\textsf{dni,}}$ $\color{#33E6CC}{\textsf{tjere's}}$<br>
+      $\color{#33D9FF}{\textsf{not}}$ $\color{#4DC4FF}{\textsf{much}}$ $\color{#5CB5FF}{\textsf{else}}$ $\color{#33D9FF}{\textsf{to}}$ $\color{#33E6CC}{\textsf{put}}$ $\color{#35E6A3}{\textsf{here}}$ $\color{#3EE66E}{\textsf{i dont}}$<br>
+      $\color{#57E63A}{\textsf{block}}$ $\color{#7DE628}{\textsf{frquently.}}$ $\color{#A8E620}{\textsf{also}}$ $\color{#D4E61A}{\textsf{uncomfortable}}$ <br>
       $\color{#FFE033}{\textsf{becoming}}$ $\color{#FFCC4D}{\textsf{friends}}$ $\color{#FFB366}{\textsf{with}}$ $\color{#FF997A}{\textsf{anyone}}$ <br>
    $\color{#FF8090}{\textsf{under}}$ $\color{#FF66A3}{\textsf{15,}}$ $\color{#FF4DB8}{\textsf{but}}$ $\color{#FF33CC}{\textsf{cuds}}$ $\color{#FF4DB8}{\textsf{are}}$ $\color{#FF66A3}{\textsf{okay!}}$<br>
   <br>
