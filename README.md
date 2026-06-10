@@ -106,5 +106,3 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
   <p align="center">
   $\color{#56108C}{\textsf{more to be added!}}$
   </p>
-
-
