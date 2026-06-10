@@ -100,3 +100,11 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
    src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/supersonicoheartstamp7.png" width="100"/>                                           <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/supersonicostamp4.png"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/supersonicostamp6.gif"/> <img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/stamps/supersonicostamp5.png"/> <img <br>
 </p>
 </details>
+
+<details>
+  <summary> $\color{#FF33CC}{\textsf{b}}\color{#FF55B8}{\textsf{l}}\color{#FF7799}{\textsf{i}}\color{#FF997A}{\textsf{n}}\color{#FFBB5C}{\textsf{k}}\color{#FFDD3D}{\textsf{i}}\color{#BFE620}{\textsf{e}}\color{#35E6A3}{\textsf{s}}$ </summary>
+  <p align="center">
+  $\color{#56108C}{\textsf{more to be added!}}$
+  </p>
+
+
