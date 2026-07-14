@@ -84,7 +84,7 @@ $\color{#FF2BB5}{\textsf{‧}}\color{#FF6AD5}{\textsf{₊}}\color{#C44DFF}{\text
 <a href="https://coatguyy.atabook.org"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/atabooksparkly.gif" width="300" alt="atabook/guestbook graphic"></a> <a href="https://github.com/turntechmonoxide"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/gifs/pinkandbluehearts.gif" width="50" alt="pink and blue heart"></a> <a href="https://meowgariitacomms.straw.page"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/commsthingsparkly.gif" width="200" alt="commissions graphic"></a>
 </p>
  <p align="center">
-<a href="https://deathlycold.straw.page"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/2ef03cbfc8-out-ezgif.com-video-to-gif-converter.gif" width="300" alt="graphic"></a>
+<a href="https://meowgariita.straw.page"><img src="https://file.garden/ZRfaX7xMiQQHiMQP/graphics/meowgariita/graphics/2ef03cbfc8-out-ezgif.com-video-to-gif-converter.gif" width="300" alt="graphic"></a>
 </p>
 <!-- extra 🪼 -->
 
